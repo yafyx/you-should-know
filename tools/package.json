@@ -1,0 +1,6 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "bash build.sh ../../cc-plugin-you-should-know/claude-code-2.1.292/plugin.js && cp pretty.js ../plugins/you-should-know/hooks/register.js" },
+  "devDependencies": { "@babel/generator": "^7", "@babel/parser": "^7", "@babel/traverse": "^7", "esbuild": "^0.28", "prettier": "^3" }
+}

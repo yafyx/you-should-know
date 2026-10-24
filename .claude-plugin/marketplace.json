@@ -1,0 +1,17 @@
+{
+  "name": "ysk-clone",
+  "owner": {
+    "name": "yfyx"
+  },
+  "metadata": {
+    "description": "You should know observer mod clone for any gateway"
+  },
+  "plugins": [
+    {
+      "name": "you-should-know",
+      "source": "./plugins/you-should-know",
+      "description": "Clone of Claude Code's built-in You should know observer mod (v2.1.292), without first-party/feature-flag gates or telemetry.",
+      "version": "2.1.292"
+    }
+  ]
+}

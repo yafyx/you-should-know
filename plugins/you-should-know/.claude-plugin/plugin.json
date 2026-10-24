@@ -1,0 +1,15 @@
+{
+  "name": "you-should-know",
+  "version": "2.1.292",
+  "description": "You should know: a side agent watches your back while Claude works on longer tasks. It looks for things worth knowing that you might miss, and surfaces them above the prompt.",
+  "author": {
+    "name": "yfyx"
+  },
+  "license": "UNLICENSED",
+  "keywords": [
+    "observer",
+    "you-should-know",
+    "mod"
+  ],
+  "types": "./types/index.d.ts"
+}
